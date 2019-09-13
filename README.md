@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network,load-balancer
-- platforms: java
+description: "Getting Started with Network - Manage Internal Load Balancer - in Java"
+urlFragment: network-java-manage-internal-load-balancers
 ---
 
 # Getting Started with Network - Manage Internal Load Balancer - in Java #
